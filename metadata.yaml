@@ -1,0 +1,27 @@
+_repo: The-Pomp-of-Yesterday_25136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hocking, Joseph
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '4870'
+    url: http://www.gutenberg.org/2009/agents/4870
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Methodist Church (Great Britain) -- Fiction'
+title: The Pomp of Yesterday
+url: http://www.gutenberg.org/ebooks/25136
